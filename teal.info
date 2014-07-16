@@ -2,6 +2,7 @@ name        = UCSF Teal Subtheme
 description = Sub theme extended off of the ucsf_base theme. SASS/COMPASS based. 
 screenshot  = screenshot.png
 core        = 7.x
+version     = 7.x-1.0
 
 base theme  = ucsf_base
 
